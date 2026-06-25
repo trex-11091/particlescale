@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "particlescale",
+  "version": "${version}",
+  "name": "Particle Scale",
+  "description": "Ändert die Größe jedes Partikel-Typs einzeln über ein GUI.",
+  "authors": [
+    "mati"
+  ],
+  "license": "MIT",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "de.mati.particlescale.ParticleScaleClient"
+    ]
+  },
+  "mixins": [
+    "particlescale.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.19.0",
+    "minecraft": "~1.21.11",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}
