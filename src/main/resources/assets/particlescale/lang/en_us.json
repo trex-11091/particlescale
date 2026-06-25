@@ -1,0 +1,10 @@
+{
+  "key.category.particlescale.main": "Particle Scale",
+  "key.particlescale.open_gui": "Open Particle Scale GUI",
+  "particlescale.gui.title": "Particle Scale",
+  "particlescale.gui.search": "Search particle...",
+  "particlescale.gui.reset_all": "Reset all",
+  "particlescale.gui.done": "Done",
+  "particlescale.gui.debug_off": "Show names: Off",
+  "particlescale.gui.debug_on": "Show names: On"
+}

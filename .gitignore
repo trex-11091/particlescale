@@ -1,0 +1,25 @@
+# Gradle
+.gradle/
+build/
+out/
+
+# Fabric Loom
+run/
+.loom/
+
+# Logs
+*.log
+
+# IDE
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+.settings/
+.classpath
+.project
+bin/
+
+# macOS
+.DS_Store

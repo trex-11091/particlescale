@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "package": "de.mati.particlescale.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "client": [
+    "BillboardParticleMixin",
+    "ParticleMixin",
+    "ParticleManagerMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
